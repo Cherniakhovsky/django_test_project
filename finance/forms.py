@@ -18,3 +18,4 @@ from django.contrib.auth.models import User
 #     class Meta:
 #         model = Cost
 #         fields = ('username','date', 'cost_description', 'cost', 'balance',)
+
