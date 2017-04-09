@@ -3,5 +3,5 @@ additional software through 'pip':
 	django-registration-redux
 
 superuser: 
-	name:
-	pass:
+	name:admin	
+	pass:python_1
